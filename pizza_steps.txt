@@ -1,0 +1,14 @@
+1. make campfire
+  1.1 Prepare the site
+    1.1.1 Dig the hole
+    1.1.2 Place rocks around the campfire
+    1.1.3 Place the water bucket by fire
+  1.2 make the structure
+    1.2.1 gather the wood
+      1.2.1.1 gather fuel
+      1.2.1.2 gather tinder
+      1.2.1.3 gather the kindling
+    1.2.2 Place the wood in a shape
+  1.3 light the fire
+    1.3.1 apply lighter fluid
+    1.3.2 use the lighter 
